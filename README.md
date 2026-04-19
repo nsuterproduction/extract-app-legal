@@ -1,0 +1,1 @@
+# extract-app-legal
